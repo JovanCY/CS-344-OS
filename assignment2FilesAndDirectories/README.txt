@@ -1,0 +1,1 @@
+gcc --std=gnu99 -o movies_by_year files.c
